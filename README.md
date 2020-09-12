@@ -23,7 +23,7 @@ customPrint(7, "Hello, World!");
 
 - **_Output_**
 
-```
+```console
 Hello, World!
 Hello, World!
 Hello, World!
